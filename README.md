@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <h3>Some of the projects using html, css and js</h3>
-  <a href="https://tit-bhiwani.netlify.app/" target="blank">College Website</a>
-  <a href="https://weatherreportlive.netlify.app/" target="blank">Weather App</a>
-  <a href="https://instantqrcodegenerator.netlify.app/" target="blank">QR Code Generator</a>
-  <a href="https://instantqrcodescanner.netlify.app/" target="blank">QR Code Scanner</a>
+  <a href="https://tit-bhiwani.netlify.app/" target="blank">College Website</a></br>
+  <a href="https://weatherreportlive.netlify.app/" target="blank">Weather App</a></br>
+  <a href="https://instantqrcodegenerator.netlify.app/" target="blank">QR Code Generator</a></br>
+  <a href="https://instantqrcodescanner.netlify.app/" target="blank">QR Code Scanner</a></br>
 
   
 <a href="https://linkedin.com/in/ashutosh-kumar-mangal" target="blank">My Linkedin Profile</a>
