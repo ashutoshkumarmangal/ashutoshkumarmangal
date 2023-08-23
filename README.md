@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashutoshkumarmangal" target="blank"><img align="center" src="https://raw.githubusercontent.com/ashutoshkumarmangal/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutoshkumarmangal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashutosh-kumar-mangal" target="blank"><img align="center" src="https://raw.githubusercontent.com/ashutoshkumarmangal/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutoshkumarmangal" height="30" width="40" /></a>
 
 </p>
 
