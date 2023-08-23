@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aashuakm12@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <h3>Some of the projects using html, css and js</h3>
   <a href="https://tit-bhiwani.netlify.app/" target="blank">College Website</a></br>
@@ -26,6 +26,7 @@
   <a href="https://instantqrcodescanner.netlify.app/" target="blank">QR Code Scanner</a></br>
    <a href="https://countdowntimer799.netlify.app/" target="blank">CountDown Timer</a></br>
 
+<h3 align="left">Connect with me:</h3>
   
 <a href="https://linkedin.com/in/ashutosh-kumar-mangal" target="blank">My Linkedin Profile</a>
 
