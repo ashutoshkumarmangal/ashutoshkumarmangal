@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center">A passionate upcoming Full Stack Developer from India.</h3>
+<h3 align="center">A passionate Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkumarmangal&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkumarmangal" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **creating some fascinating projects.**
 
-- 🌱 I’m currently learning **MERN stack along with other frontend technologies.**
+- 🌱 I’m currently learning **MERN stack and Java Technologies along with other frontend technologies.**
 
-- 👯 I’m looking to collaborate on **projects which include React.**
+- 👯 I’m looking to collaborate on **projects which include Frontend and Java Technologies.**
 
-- 💬 Ask me about **Html,Css,Javascript,Reactjs,Nodejs.**
+- 💬 Ask me about **Java,Javascript,Reactjs,Html,Css,Nodejs, MySql, MongoDB.**
 
-- 📫 How to reach me **aashuakm12@gmail.com**
+- 📫 How to reach me **ashutoshkrmangal@gmail.com**
 
 
 <p align="left">
