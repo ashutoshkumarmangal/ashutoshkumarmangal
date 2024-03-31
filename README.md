@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **creating some fascinating projects.**
 
-- 🌱 I’m currently learning **MERN stack and Java Technologies along with other frontend technologies.**
+- 🌱 I’m currently learning **Java Technologies along with React and Javascript.**
 
 - 👯 I’m looking to collaborate on **projects which include Frontend and Java Technologies.**
 
-- 💬 Ask me about **Java,Javascript,Reactjs,Html,Css,Nodejs, MySql, MongoDB.**
+- 💬 Ask me about **Java,Javascript,Reactjs,Html,Css, MySql.**
 
 - 📫 How to reach me **ashutoshkrmangal@gmail.com**
 
